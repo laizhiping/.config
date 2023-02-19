@@ -1,6 +1,6 @@
 # .oh-my-config
 ## 1. Introduction
-This repo called **oh-my-config** is a configuration of Mac and Linux OS, which includes the config of vim and tmux.
+This repo called **oh-my-config** is a configuration of Mac and Linux OS, and includes the config of vim and tmux.
 
 ## 2. Dependencies
 - tmux: https://github.com/gpakosz/.tmux
